@@ -61,4 +61,4 @@ Pour lancer le projet, il faut lancer la commande `npm install` à la racine du 
 
 Il faut ensuite lancer la commande `npx knex migrate:latest` pour lancer les migrations qui créeront les tables nécessaires au bon fonctionnement de la base de données
 
-
+Enfin, lancer la commande `npm start` pour lancer le projet
