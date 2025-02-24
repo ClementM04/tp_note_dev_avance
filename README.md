@@ -27,6 +27,8 @@ Pour ce projet il vous faut :
 
 ## Les variables d'environnement
 
+Toute les variables d'environnement présente dans le fichier `.env` sont à titre d'exemple, vous pouvez les modifier pour les adapter à votre configuration
+
 MAIL_USER et MAIL_PASS sont les variables pour le mail du compte est le mail et le mot de passe du compte qui envoie les mails
 
 DB_HOST, DB_USER, DB_PASSWORD, DB_DATABASE et DB_PORT sont les variables pour la connexion a la base de données
